@@ -15,6 +15,7 @@ The goal of this project is to analyze various factors affecting student perform
 ## 1. Data Loading and Storage
 
 **Snowflake** is used as the data storage and querying platform. The "Student Performance Factors" dataset is loaded into Snowflake for efficient data management. Encoded columns are added to the dataset to facilitate further analysis.
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/c5fc4406-41b1-4a94-b0c7-5dd8e0ccab57">
 
 ## 2. Initial Data Processing
 
